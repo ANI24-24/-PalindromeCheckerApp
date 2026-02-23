@@ -3,7 +3,7 @@ Objective:
 The objective of the PalindromeChecker App is to design and implement a console-based Java application that validates whether a given string is a palindrome under different conditions, while strengthening core programming fundamentals and data structure concepts.
 
 Goal:
-Display a welcome message and application information when the PalindromeChecker App starts.
+Display whether a hardcoded string is a palindrome.
 
 Flow:-
 
@@ -11,11 +11,11 @@ Program starts.
 
 JVM invokes the main() method.
 
-Application name is displayed.
+Hardcoded string is checked
 
-Application version is displayed.
+Result is printed
 
-Program continues to next use case or exits.
+Program exits
 
 Key Concepts:
 
