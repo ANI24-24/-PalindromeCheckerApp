@@ -30,4 +30,4 @@ Console Output – System.out.println() is used to display messages on the conso
 
 Application Flow Control – Defines the startup behavior before palindrome processing begins.
 
-Data Structure: None (Console based execution)
+Data Structure: string 
